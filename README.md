@@ -1,2 +1,2 @@
 # Drumi-Kit
-Drum kit simulator webiste
+A Drum kit simulator website using Javasctipt, HTML and CSS
